@@ -37,7 +37,8 @@
 let studentFirstName = "Octavio"
 let studentLastName = "Diaz"
 var studentsCurrentGrade = "it's over 9,000%"
-var studentGradeForNovemberReportCard = "900%"
+var studentGradeForNovemberReportCard = "about 900%"
+
 /*:
  ### Question 2
  

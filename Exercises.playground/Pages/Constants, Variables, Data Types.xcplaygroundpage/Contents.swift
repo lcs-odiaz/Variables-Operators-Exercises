@@ -52,8 +52,10 @@ var studentGradeForNovemberReportCard = 99.991
 // Answer Question 2 below
 var myAge : Int
 var otherAge : Double
+let averageAge : Double
 myAge = 16
 otherAge = 40.0
+averageAge = (myAge + otherAge)/2
 /*:
  ### Question 3
  

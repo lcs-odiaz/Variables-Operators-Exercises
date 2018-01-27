@@ -43,7 +43,22 @@
  
  */
 // Answer Question 1 below
+//
+var partimeJobEarnings = 0.0
+partimeJobEarnings += 22.50 * 0.5 // from shoveling the road 1.
+print("\(partimeJobEarnings)$ are your earnings")
 
+partimeJobEarnings += 20.00 // from babysitting 2.
+print("\(partimeJobEarnings)$ are your earnings")
+
+partimeJobEarnings /= 2 // Foodland wasted money 3.
+print("\(partimeJobEarnings)$ are your earnings")
+
+partimeJobEarnings += 25 * 4 // December 21 party babysitting 4.
+print("\(partimeJobEarnings)$ are your earnings")
+
+partimeJobEarnings -= 50 // wanted on nice meal 5.
+print("\(partimeJobEarnings)$ are your earnings")
 
 /*:
 ### Question 2
@@ -54,7 +69,7 @@
 
 */
 // Answer Question 2 below
-6 + 4 * 5 - 2
+6 + 4 * (5 - 2)
 
 
 

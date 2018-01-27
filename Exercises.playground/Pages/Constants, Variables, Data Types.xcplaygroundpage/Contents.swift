@@ -50,16 +50,18 @@ var studentGradeForNovemberReportCard = "about 900%"
  
  */
 // Answer Question 2 below
-
-
+var myAge : Int
+var otherAge : Double
+myAge = 16
+otherAge = 40.0
 /*:
  ### Question 3
  
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-
-
+let myFavoriteHobby = "reading"
+print ("Constant processs quicker. Constant ")
 /*:
  ### Question 4
  
@@ -99,8 +101,9 @@ var studentGradeForNovemberReportCard = "about 900%"
  
  */
 // Answer Question 6 below
-
-
+var year = 2017
+let name = "Alfredo"
+print("The computer won't print cause its a syntax error")
 /*:
  ### Question 7
  

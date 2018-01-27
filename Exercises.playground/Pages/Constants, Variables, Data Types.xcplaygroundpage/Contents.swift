@@ -55,7 +55,7 @@ var otherAge : Double
 let averageAge : Double
 myAge = 16
 otherAge = 40.0
-averageAge = (myAge + otherAge)/2
+averageAge = (Double(myAge) + otherAge)/2
 /*:
  ### Question 3
  
@@ -63,7 +63,6 @@ averageAge = (myAge + otherAge)/2
  */
 // Answer Question 3 below
 let myFavoriteHobby = "reading"
-print ("Constant processs quicker. Constant ")
 /*:
  ### Question 4
  
